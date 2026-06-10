@@ -22,7 +22,9 @@ Think of it as a "portable practice notebook" — not a Master, not a ritual spe
 We would love your feedback. Suggestions and bug reports:
 
 Open a Pull Request or Issue on GitHub
+
 DM @cucmeliu
+
 Email us at Leo@xr01.cn
 
 ---

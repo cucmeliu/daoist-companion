@@ -23,7 +23,9 @@
 我们非常欢迎您的反馈。请提供建议和错误报告：
 
 在GitHub上提交一个Pull Request或Issue
+
 DM @cucmeliu
+
 请通过电子邮件联系我们：Leo@xr01.cn
 
 ---
